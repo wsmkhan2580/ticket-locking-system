@@ -1,3 +1,12 @@
+## 🌐 Live Deployment
+
+| Service | URL |
+|---------|-----|
+| 🎨 Frontend | https://frontend-kappa-sage-2ja9plfl2x.vercel.app |
+| ⚙️ Backend | https://ticket-locking-system.onrender.com |
+
+
+
 # Real-Time Ticket Locking System
 
 A real-time ticket-locking feature for a customer-support dashboard. When one
